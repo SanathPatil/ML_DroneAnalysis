@@ -16,8 +16,7 @@
 ### 10) Destination longitude : Longitude of the destination.
 ### 11) Distance : Distance of the journey.
 ### 12) Departure date: Date of the departure.
-### 13) Departure time : Time of the departure. The delivery company has a specific rule to define morning (6:00:00 - 11:59:59), afternoon (12:00:00 - 20:59:59), and night 
-###                      (21:00 - 5:59:59).
+### 13) Departure time : Time of the departure. The delivery company has a specific rule to define morning (6:00:00 - 11:59:59), afternoon (12:00:00 - 20:59:59), and night (21:00 - 5:59:59).
 ### 14) Travel time: Travel time (i.e., duration) of the journey.
 ### 15) Delivery time: The time of the delivery.
 ### 16) Delivery price: Delivery fare. We know that the fare has a linear relation with some of the attributes of the dataset.
