@@ -1,6 +1,6 @@
 # Drone Analysis using Machine Learning Techniques
 
-## A dataset (16 features)- delivery of packages using drones, performed both graphical and non-graphical EDA to understand the data and find correlation between the features. Also, finding and fixing the data issues using mathematical techniques and machine learning model. Finally, predicting the Delivery fare using various machine learning models such as Multiple Linear Regression, Support Vector Regression, Random Forest Regression and Decision Tree Regression.
+## A dataset (16 features)- delivery of packages using drones, performed both graphical and non-graphical EDA to understand the data and find correlation between the features. Also, finding and fixing the data issues using mathematical techniques and machine learning model. Finally, predicting the Delivery fare using various machine learning models such as Multiple Linear Regression, Support Vector Regression, Random Forest Regression and Decision Tree Regression. Also, both Origin and Destination regions are fixed, using  KNN Classifier.
 
 ## Given information about the dataset- The dataset is about delivering packages using drones in Victoria, Australia. The description of each data column is shown below:
 
