@@ -5,8 +5,7 @@
 ## Given information about the dataset- The dataset is about delivering packages using drones in Victoria, Australia. The description of each data column is shown below:
 
 ### 1) Id: Unique Id for each drone.
-### 2) Drone type: A categorical attribute for the type of the drone. Each type of drone has three phases of flight ( namely takeOff , onRoute , and Landing ). The drone may 
-###                have  different speeds at different phases. takeOff and Landing phases only take five minutes.
+### 2) Drone type: A categorical attribute for the type of the drone. Each type of drone has three phases of flight ( namely takeOff , onRoute , and Landing ). The drone may have different speeds at different phases. takeOff and Landing phases only take five minutes.
 ### 3) Post type : A categorical attribute for the type of delivery (0:normal, 1:express).
 ### 4) Package weight : The weight of the package.
 ### 5) Origin region : A categorical attribute representing the region for the origin of the delivery.
